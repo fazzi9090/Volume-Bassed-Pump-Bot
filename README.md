@@ -33,6 +33,7 @@ Build using the following commands:
 git clone https://github.com/CyrptoPump/Volume-Bassed-Pump-Bot.git
 cd Volume-Bassed-Pump-Bot
 python3 main.py
+main.py
 ```
 ## Setup Instructions - Way II
 
