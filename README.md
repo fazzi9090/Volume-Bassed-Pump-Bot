@@ -39,7 +39,7 @@ main.py
 
 - Download and install [Python 3.12.1](https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe)
 - [Download](https://github.com/CyrptoPump/Volume-Bassed-Pump-Bot/archive/refs/heads/main.zip) the repository release and extract files. 
-- Double-click on the **Build & Start.bat** file to run it.
+- Double-click on the **main.py** file to run it.
 - And follow the instructions in the application window.
 
 
