@@ -10,7 +10,7 @@
 CryptoBot is a volume-based pump and dump bot that monitors sudden volume changes in the cryptocurrency market. It provides users with alerts and can perform automated buy and sell transactions upon request.
 You can use Coingecko APIs unlimitedly with the crack method available in the bot.
 
-![CryptoBot](/dashboard.jpg)
+![avatar](https://github.com/CyrptoPump/Volume-Bassed-Pump-Bot/blob/main/dashboard.jpg)
 
 ## Features
 
